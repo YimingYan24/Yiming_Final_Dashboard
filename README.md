@@ -1,5 +1,5 @@
 Dashboards are the bread and butter of spatial data displays. They are highly interactive websites, usually with real-time updates that show data in an accessible way.
-
+Yiming Yan's Final Project: a dashboard of the statistics of animals (cats/dogs/doves) living in the university city in Beijing. One can choose to filter from hotspot/map tap/ animal types/ 3 unis to get the specific info of each animal.
 
 ## Instructions
 
